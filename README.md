@@ -49,7 +49,7 @@ I'm a tech enthusiast and currently a Diploma 3 (D3) student majoring in Informa
 ---
 
 **📫 Let's Connect!**  
-- GitHub: [@mrxnexsus](https://github.com/mrxnexsus)  
+- GitHub: [@adialam345](https://github.com/adialam345)  
 - Discord: `@mrxnexsus`  
 - More links coming soon...
 
@@ -73,9 +73,9 @@ I'm a tech enthusiast and currently a Diploma 3 (D3) student majoring in Informa
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrxnexsus&theme=tokyonight&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrxnexsus&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxnexsus&theme=tokyonight&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=adialam345&theme=tokyonight&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=adialam345&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adialam345&theme=tokyonight&layout=compact&hide_border=false)
 
 ---
 
@@ -83,5 +83,6 @@ I'm a tech enthusiast and currently a Diploma 3 (D3) student majoring in Informa
 
 ![Pacman](https://github.com/adialam345/adialam345/blob/output/pacman-contribution-graph.svg)
 
+---
 
 _“Code is my language, tech is my playground.”_
