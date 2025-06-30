@@ -1,72 +1,90 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 Hello World! I'm Adi Alam Sami Aji
 
-###
+**💫 About Me:**  
+I'm a tech enthusiast and currently a Diploma 3 (D3) student majoring in Information Technology at Politeknik Negeri Madiun. I love turning complex ideas into real-world solutions — from Android sensor apps to smart IoT systems and full-stack websites. I'm passionate about automation, security, and clean architecture.
 
-<p align="left">My name is Adi Alam Sami Aji, and I'm an Information Technology student at Politeknik Negeri Madiun, Indonesia 🇮🇩</p>
+---
 
-###
+**🧠 What I Do**  
+- 📱 Android development with Kotlin + Firebase  
+- 🌐 Full-stack web development (Laravel, Tailwind, Next.js, Node.js)  
+- 🤖 Discord bot development for custom automation  
+- 💡 IoT systems with ESP32 & Firebase Realtime DB  
+- 🔐 Cybersecurity & penetration testing (actively learning)  
+- 🧠 Network automation & firewall scripting with Mikrotik/Debian  
+- 🐍 Backend & tools scripting with Python  
+- 🎮 Experimental multiplayer browser game with WebSockets  
 
-<h2 align="left">About Me</h2>
+---
 
-###
+**🎓 Background**  
+- 🎓 Graduate of SMK 5 Madiun (Computer & Network Engineering)  
+- 💻 D3 IT Student at Politeknik Negeri Madiun  
+- 🧪 Worked on various projects: Android apps, IoT dashboards, Laravel systems, WA automation, etc.  
 
-<p align="left">
-✨ Passionate about exploring technology since I first configured a Mikrotik router<br>
-📚 Currently focusing on full-stack development, network security, and cloud infrastructure<br>
-🎯 Goals: To develop an interactive browser-based multiplayer game and deploy efficient, user-oriented micro web services<br>
-🎲 Fun fact: I’ve built a YouTube M3U8 player, a WA-integrated product catalog, and several network tools for educational and personal purposes
-</p>
+---
 
-###
+**💼 Selected Projects**  
+- 📱 **Project IoT – Android-Based Sensor Monitoring**  
+  Real-time sensor app built in Kotlin with secure Firebase sync & Material Design UI.
 
-<h2 align="left">I code with</h2>
+- 💡 **IoT Smart Lamp Web App**  
+  Firebase + JavaScript dashboard for motion detection & smart lamp control using ESP32.
 
-###
+- 📷 **Online Camera Rental System**  
+  Laravel + Tailwind app with full CRUD, rental management, and email auth system.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
+- 🕌 **Ponpes Miftahul Huda – Information System**  
+  Role-based Laravel system for student management, news, and registration portal.
 
-###
-
-<h2 align="left">🔗 Selected Projects</h2>
-
-###
-
-- 🎮 **JKT48 Multiplayer Browser Game**  
-  *Realtime game concept using WebSocket & Firebase, dedicated to the idol group fanbase*
+- 🏭 **Warehouse Inventory App (Android)**  
+  Kotlin + Retrofit + Room for tracking goods, suppliers, and real-time transactions.
 
 - 🎧 **YouTube M3U8 Player**  
-  *A public web tool for streaming YouTube via M3U8 playlist URLs*  
-  [Live Demo](https://twilight-wildflower-192b.mrxnexsus.workers.dev/)
+  Personal Worker-based tool for streaming YouTube M3U8 links.
 
-- 🛍️ **WhatsApp Catalog Generator**  
-  *Auto-generates shareable product messages for WhatsApp based on user-selected inputs*
+- 🤖 **Discord Bot Projects**  
+  Custom bots built with Node.js and Python for automation and community tools.
 
-- 🔐 **Network Firewall Toolkit (Mikrotik)**  
-  *Implemented advanced protection including brute force blocking, GeoIP filtering, and time-based access rules*
+---
 
-- 📶 **IoT Firebase Integration**  
-  *Built a real-time control panel using Firebase Realtime Database for smart monitoring projects*
+**📫 Let's Connect!**  
+- GitHub: [@mrxnexsus](https://github.com/mrxnexsus)  
+- Discord: `@mrxnexsus`  
+- More links coming soon...
 
-###
+---
 
-Jika kamu ingin saya bantu menambahkan **badge stats GitHub**, **link media sosial**, atau layout markdown yang lebih menarik, tinggal bilang aja ya!
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=protonvpn&logoColor=white)  
+![Pentesting](https://img.shields.io/badge/Pentesting-5B2C6F?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrxnexsus&theme=tokyonight&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrxnexsus&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxnexsus&theme=tokyonight&layout=compact&hide_border=false)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrxnexsus/mrxnexsus/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrxnexsus/mrxnexsus/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mrxnexsus/mrxnexsus/output/github-snake.svg" />
+</picture>
+
+---
+
+_“Code is my language, tech is my playground.”_
