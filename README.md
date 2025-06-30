@@ -79,14 +79,9 @@ I'm a tech enthusiast and currently a Diploma 3 (D3) student majoring in Informa
 
 ---
 
-###
+### 🟡 GitHub Contribution Animation – Pac-Man Style
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman](https://github.com/adialam345/adialam345/blob/output/pacman-contribution-graph.svg)
 
-###
 
 _“Code is my language, tech is my playground.”_
