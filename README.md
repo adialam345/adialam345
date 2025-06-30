@@ -79,11 +79,9 @@ I'm a tech enthusiast and currently a Diploma 3 (D3) student majoring in Informa
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrxnexsus/mrxnexsus/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrxnexsus/mrxnexsus/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mrxnexsus/mrxnexsus/output/github-snake.svg" />
-</picture>
+### 🟡 GitHub Contribution Animation – Pac-Man Edition
+
+![Pacman](https://github.com/mrxnexsus/mrxnexsus/blob/output/github-contribution-grid-pacman.svg)
 
 ---
 
